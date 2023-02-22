@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,address_id
+1,Mary,Smith,mary.smith@mailid.com,5
+2,Patricia,Johnson,patricia.johnson@mailid.com,6
+3,Madan,Mohan,madan.mohan@mailid.com,7
+4,Barbara,Jones,barbara.jones@mailid.com,8
+5,Elizabeth,Brown,elizabeth.brown@mailid.com,9
+6,Jennifer,Davis,jennifer.davis@mailid.com,10
+7,Maria,Miller,maria.miller@mailid.com,11
+8,Susan,Wilson,susan.wilson@mailid.com,12
+9,R,Madhav,r.madhav@mailid.com,13
+10,Dorothy,Taylor,dorothy.taylor@mailid.com,14
+11,Lisa,Anderson,lisa.anderson@mailid.com,15
+12,Nancy,Thomas,nancy.thomas@mailid.com,16
+13,Karen,Jackson,karen.jackson@mailid.com,17
+14,Betty,White,betty.white@mailid.com,18
+15,Helen,Harris,helen.harris@mailid.com,19
