@@ -1,0 +1,6 @@
+customer_id,amount,mode,payment_date
+1,60,Cash,24-09-2020
+10,70,Mobile Payment,28-02-2021
+11,80,Cash,01-03-2021
+2,500,Credit Card,27-04-2020
+8,100,Cash,26-01-2021
